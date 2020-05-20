@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30746822064",
+    "firebase_url": "https://flutter-chatters-app.firebaseio.com",
+    "project_id": "flutter-chatters-app",
+    "storage_bucket": "flutter-chatters-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30746822064:android:e30d720873148e0c7d8275",
+        "android_client_info": {
+          "package_name": "com.example.flutterchattersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30746822064-1lcu9rv5gti1us48eracsbhl1lmpvsqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawYIX_Vi66ISj5D9mibhufV-4OMYTKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30746822064-1lcu9rv5gti1us48eracsbhl1lmpvsqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
